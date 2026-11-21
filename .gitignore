@@ -1,4 +1,2 @@
-titd
-main.o
-tit.o
 compile_commands.json
+build/*
